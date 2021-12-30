@@ -23,6 +23,7 @@
 - [Designercize](https://designercize.com/) Random design exercise generator
 - [Service Design Tools](https://servicedesigntools.org/)
 - [10 best design systems](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
+- [Browser-specific CSS rules](https://browserstrangeness.bitbucket.io/css_hacks.html#safari)
 
 ## :rage4: Bad practices
 - [HTMLell](https://www.htmhell.dev/) HTML markup from hell
