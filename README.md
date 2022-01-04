@@ -7,6 +7,7 @@
 3. [:rage4: Bad practices](#rage4-bad-practices)
 4. [:children_crossing: Accessibility](#children_crossing-accessibility)
 5. [:newspaper: Articles](#newspaper-articles)
+6. [:hammer_and_wrench: Tools](#hammer_and_wrench-tools)
 
 ## :memo: Documentation
 - [readme.so](https://readme.so/) The easiest way to create a readme
@@ -37,3 +38,6 @@
 - [What I learned reading 550+ books for work and life](https://www.reaktor.com/blog/what-i-learned-reading-550-books-for-work-and-life/)
 - [Designing Accordions: Best practices](https://blog.prototypr.io/designing-the-accordion-best-practices-3c1bd54bf26e)
 - [One last time: Custom radios & checkboxes](https://www.scottohara.me/blog/2021/09/24/custom-radio-checkbox-again.html)
+
+## :hammer_and_wrench: Tools
+- [Favicon generator](https://realfavicongenerator.net/)
