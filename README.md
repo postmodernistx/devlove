@@ -14,6 +14,7 @@
 - [gitmoji.dev](https://gitmoji.dev/) An emoji guide for your commit messages
 - [How to document components | Storybook](https://storybook.js.org/docs/vue/writing-docs/introduction)
 - [ascii-emoji](https://github.com/dysfunc/ascii-emoji) Dysfunctional emojis
+- [commitlint](https://github.com/conventional-changelog/commitlint)
 
 ## :art: Design and CSS
 - [TypeScale](https://type-scale.com/) A visual calulcator (for type sizes)
