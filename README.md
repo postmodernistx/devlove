@@ -52,3 +52,4 @@
 - [Chrome DevTool tips](https://umaar.com/dev-tips/)
 - [Lorem Faces](https://loremfaces.com/) AI generated faces
 - [Unicode Arrows](https://unicodearrows.com/all-arrows)
+- [Hasty](https://hasty.dev/) - Test JavaScript performance
