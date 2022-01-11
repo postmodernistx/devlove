@@ -43,3 +43,4 @@
 ## :hammer_and_wrench: Tools
 - [Favicon generator](https://realfavicongenerator.net/)
 - [Chrome DevTool tips](https://umaar.com/dev-tips/)
+- [Lorem Faces](https://loremfaces.com/) AI generated faces
