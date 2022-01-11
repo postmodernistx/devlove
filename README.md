@@ -17,15 +17,22 @@
 - [commitlint](https://github.com/conventional-changelog/commitlint)
 
 ## :art: Design and CSS
-- [TypeScale](https://type-scale.com/) A visual calulcator (for type sizes)
-- [Houdini.how](https://houdini.how/)
-- [1-line layouts](https://1linelayouts.glitch.me/)
+- [Houdini.how](https://houdini.how/) - CSS worklets
 - [Design Research](https://rhizomerd.substack.com/p/design-research-three-tools-for-mountaineering)
 - [UI Control Guidelines](https://balsamiq.com/learn/ui-control-guidelines/)
 - [Designercize](https://designercize.com/) Random design exercise generator
 - [Service Design Tools](https://servicedesigntools.org/)
 - [10 best design systems](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
 - [Browser-specific CSS rules](https://browserstrangeness.bitbucket.io/css_hacks.html#safari)
+
+### CSS Layouts
+- [web.dev Layout Patterns](https://web.dev/patterns/layout/) - A collection of layout patterns built using modern CSS APIs that will help you build common interfaces such as cards, dynamic grid areas, and full-page layouts.
+- [1-line layouts](https://1linelayouts.glitch.me/)
+- [CSS Layout Generator](https://layout.bradwoods.io/)
+
+### Typography tools
+- [Type Scale Clamp Generator](https://maximeroudier.com/typeScaleClampGenerator/)
+- [TypeScale](https://type-scale.com/) A visual calulcator (for type sizes)
 
 ## :rage4: Bad practices
 - [HTMLell](https://www.htmhell.dev/) HTML markup from hell
@@ -44,3 +51,4 @@
 - [Favicon generator](https://realfavicongenerator.net/)
 - [Chrome DevTool tips](https://umaar.com/dev-tips/)
 - [Lorem Faces](https://loremfaces.com/) AI generated faces
+- [Unicode Arrows](https://unicodearrows.com/all-arrows)
