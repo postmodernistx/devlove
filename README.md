@@ -8,6 +8,7 @@
 4. [:children_crossing: Accessibility](#children_crossing-accessibility)
 5. [:newspaper: Articles](#newspaper-articles)
 6. [:hammer_and_wrench: Tools](#hammer_and_wrench-tools)
+7. [:game_die: Random](#game_die-random)
 
 ## :memo: Documentation
 - [readme.so](https://readme.so/) The easiest way to create a readme
@@ -53,3 +54,6 @@
 - [Lorem Faces](https://loremfaces.com/) AI generated faces
 - [Unicode Arrows](https://unicodearrows.com/all-arrows)
 - [Hasty](https://hasty.dev/) - Test JavaScript performance
+
+## :game_die: Random
+- [Emojimix](https://tikolu.net/emojimix/%F0%9F%8D%8B+%F0%9F%A5%B8) - Mix two emojis together (and download SVG)
