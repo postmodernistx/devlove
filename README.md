@@ -42,6 +42,7 @@
 - [Accessible front-end components: claims vs. reality](https://hiddedevries.nl/en/blog/2021-04-02-accessible-front-end-components-claims-vs-reality)
 - [Inclusive design 2021](https://www.youtube.com/playlist?list=PLn7dsvRdQEfFoUIFxtSsp8PjHm-glki1Z) YouTube video series
 - [Little book of accessibility](https://uxdesign.cc/the-little-book-of-accessibility-a9b59d82b412)
+- [Accessible color palettes](https://accessiblepalette.com/) - Create color systems with consistent lightness and contrast
 
 ## :newspaper: Articles
 - [What I learned reading 550+ books for work and life](https://www.reaktor.com/blog/what-i-learned-reading-550-books-for-work-and-life/)
@@ -55,5 +56,14 @@
 - [Unicode Arrows](https://unicodearrows.com/all-arrows)
 - [Hasty](https://hasty.dev/) - Test JavaScript performance
 
+### MVP tools (i.e random APIs)
+- [Lorem space](https://lorem.space/) - Category-based placeholder images
+
+### :rainbow: Color tools
+- [Couleur.io](https://couleur.io/) - Create harmonizing color palettes
+
 ## :game_die: Random
 - [Emojimix](https://tikolu.net/emojimix/%F0%9F%8D%8B+%F0%9F%A5%B8) - Mix two emojis together (and download SVG)
+- [Penguin Classics cover generator](https://penguin.jos.ht/)
+- [Coding font tournament](https://www.codingfont.com/) - Code font picker game
+- [JS is weird](https://jsisweird.com/)
