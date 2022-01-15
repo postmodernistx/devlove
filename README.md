@@ -67,3 +67,4 @@
 - [Penguin Classics cover generator](https://penguin.jos.ht/)
 - [Coding font tournament](https://www.codingfont.com/) - Code font picker game
 - [JS is weird](https://jsisweird.com/)
+- [Jokes for your README](https://github.com/ABSphreak/readme-jokes)
