@@ -6,9 +6,10 @@
 2. [:art: Design & CSS](#art-design-and-css)
 3. [:rage4: Bad practices](#rage4-bad-practices)
 4. [:children_crossing: Accessibility](#children_crossing-accessibility)
-5. [:newspaper: Articles](#newspaper-articles)
-6. [:hammer_and_wrench: Tools](#hammer_and_wrench-tools)
-7. [:game_die: Random](#game_die-random)
+5. [:clown_face: Usability](#clown_face-usability)
+6. [:newspaper: Articles](#newspaper-articles)
+7. [:hammer_and_wrench: Tools](#hammer_and_wrench-tools)
+8. [:game_die: Random](#game_die-random)
 
 ## :memo: Documentation
 - [readme.so](https://readme.so/) The easiest way to create a readme
@@ -43,6 +44,9 @@
 - [Inclusive design 2021](https://www.youtube.com/playlist?list=PLn7dsvRdQEfFoUIFxtSsp8PjHm-glki1Z) YouTube video series
 - [Little book of accessibility](https://uxdesign.cc/the-little-book-of-accessibility-a9b59d82b412)
 - [Accessible color palettes](https://accessiblepalette.com/) - Create color systems with consistent lightness and contrast
+
+## :clown_face: Usability
+- [Where to put form buttons](https://adamsilver.io/blog/where-to-put-buttons-on-forms)
 
 ## :newspaper: Articles
 - [What I learned reading 550+ books for work and life](https://www.reaktor.com/blog/what-i-learned-reading-550-books-for-work-and-life/)
