@@ -26,6 +26,7 @@
 - [Service Design Tools](https://servicedesigntools.org/)
 - [10 best design systems](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
 - [Browser-specific CSS rules](https://browserstrangeness.bitbucket.io/css_hacks.html#safari)
+- [HUDs & GUIs](https://www.hudsandguis.com/)
 
 ### CSS Layouts
 - [web.dev Layout Patterns](https://web.dev/patterns/layout/) - A collection of layout patterns built using modern CSS APIs that will help you build common interfaces such as cards, dynamic grid areas, and full-page layouts.
