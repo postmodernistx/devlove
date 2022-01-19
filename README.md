@@ -58,6 +58,8 @@
 - [Chrome DevTool tips](https://umaar.com/dev-tips/)
 - [Unicode Arrows](https://unicodearrows.com/all-arrows)
 - [Hasty](https://hasty.dev/) - Test JavaScript performance
+- [SVG Repo](https://www.svgrepo.com/) - So many SVG icons
+- [All the tools](https://10015.io/) - All the tools
 
 ### Generators
 - [Glassmorphism generator](https://ui.glass/generator/)
