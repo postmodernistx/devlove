@@ -74,6 +74,7 @@
 - [Glassmorphism generator](https://ui.glass/generator/)
 - [Favicon generator](https://realfavicongenerator.net/)
 - [Lorem Faces](https://loremfaces.com/) AI generated faces
+- [HTML boilerplate](https://htmlboilerplates.com/) - Good one!
 
 ### MVP tools (i.e random APIs)
 - [Lorem space](https://lorem.space/) - Category-based placeholder images
