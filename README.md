@@ -28,6 +28,14 @@
 - [Browser-specific CSS rules](https://browserstrangeness.bitbucket.io/css_hacks.html#safari)
 - [HUDs & GUIs](https://www.hudsandguis.com/)
 
+### Design libraries, systems, etc.
+- [SEB | Skandinaviska Enskilda Banken](https://designlibrary.sebgroup.com/components)
+- [Mozilla](https://protocol.mozilla.org/fundamentals/principles.html)
+- [Component Gallery](https://component.gallery/)
+
+### CSS
+- [Transition.style](https://www.transition.style/) - CSS code for transitions
+
 ### CSS Layouts
 - [web.dev Layout Patterns](https://web.dev/patterns/layout/) - A collection of layout patterns built using modern CSS APIs that will help you build common interfaces such as cards, dynamic grid areas, and full-page layouts.
 - [1-line layouts](https://1linelayouts.glitch.me/)
