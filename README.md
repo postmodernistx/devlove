@@ -55,11 +55,14 @@
 - [One last time: Custom radios & checkboxes](https://www.scottohara.me/blog/2021/09/24/custom-radio-checkbox-again.html)
 
 ## :hammer_and_wrench: Tools
-- [Favicon generator](https://realfavicongenerator.net/)
 - [Chrome DevTool tips](https://umaar.com/dev-tips/)
-- [Lorem Faces](https://loremfaces.com/) AI generated faces
 - [Unicode Arrows](https://unicodearrows.com/all-arrows)
 - [Hasty](https://hasty.dev/) - Test JavaScript performance
+
+### Generators
+- [Glassmorphism generator](https://ui.glass/generator/)
+- [Favicon generator](https://realfavicongenerator.net/)
+- [Lorem Faces](https://loremfaces.com/) AI generated faces
 
 ### MVP tools (i.e random APIs)
 - [Lorem space](https://lorem.space/) - Category-based placeholder images
