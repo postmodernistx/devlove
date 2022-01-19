@@ -75,6 +75,7 @@
 - [Favicon generator](https://realfavicongenerator.net/)
 - [Lorem Faces](https://loremfaces.com/) AI generated faces
 - [HTML boilerplate](https://htmlboilerplates.com/) - Good one!
+- [Polka Dots](https://screenspan.net/polka)
 
 ### MVP tools (i.e random APIs)
 - [Lorem space](https://lorem.space/) - Category-based placeholder images
